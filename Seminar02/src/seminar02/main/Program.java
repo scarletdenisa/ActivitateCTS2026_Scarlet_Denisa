@@ -19,7 +19,7 @@ public class Program {
 			for(Aplicant aplicant:listaAngajati)
 				System.out.println(aplicant.toString());
 		} catch (FileNotFoundException e) {
-			// TODO Auto-generated catch block
+			// TODO Auto-generated catch blk
 			e.printStackTrace();
 		}
 	}
