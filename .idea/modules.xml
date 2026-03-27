@@ -2,11 +2,18 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BuilderExercitiu/BuilderExercitiu.iml" filepath="$PROJECT_DIR$/BuilderExercitiu/BuilderExercitiu.iml" />
       <module fileurl="file://$PROJECT_DIR$/CalitateTestareSoftware.iml" filepath="$PROJECT_DIR$/CalitateTestareSoftware.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FactoryMethod06/FactoryMethod06.iml" filepath="$PROJECT_DIR$/FactoryMethod06/FactoryMethod06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prototype06/Prototype06.iml" filepath="$PROJECT_DIR$/Prototype06/Prototype06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrototypeExercitiu/PrototypeExercitiu.iml" filepath="$PROJECT_DIR$/PrototypeExercitiu/PrototypeExercitiu.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar01/Seminar01.iml" filepath="$PROJECT_DIR$/Seminar01/Seminar01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar02/Seminar02.iml" filepath="$PROJECT_DIR$/Seminar02/Seminar02.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleFactory04/SimpleFactory04.iml" filepath="$PROJECT_DIR$/SimpleFactory04/SimpleFactory04.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton04/Singleton04.iml" filepath="$PROJECT_DIR$/Singleton04/Singleton04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestSimpleFactory1/TestSimpleFactory1.iml" filepath="$PROJECT_DIR$/TestSimpleFactory1/TestSimpleFactory1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestSimpleFactory2/TestSimpleFactory2.iml" filepath="$PROJECT_DIR$/TestSimpleFactory2/TestSimpleFactory2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestSingleton1/TestSingleton1.iml" filepath="$PROJECT_DIR$/TestSingleton1/TestSingleton1.iml" />
     </modules>
   </component>
 </project>
