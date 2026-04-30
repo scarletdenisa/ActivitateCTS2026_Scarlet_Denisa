@@ -1,0 +1,38 @@
+package clase;
+
+public class Pacient {
+    private String nume;
+    private int gravitate;
+
+    public String getNume() {
+        return nume;
+    }
+
+    @Override
+    public String toString() {
+        final StringBuilder sb = new StringBuilder("Pacient{");
+        sb.append("nume='").append(nume).append('\'');
+        sb.append(", gravitate=").append(gravitate);
+        sb.append('}');
+        return sb.toString();
+    }
+
+    public void setNume(String nume) {
+        this.nume = nume;
+    }
+
+    public int getGravitate() {
+        return gravitate;
+    }
+
+    public void setGravitate(int gravitate) {
+        this.gravitate = gravitate;
+    }
+
+    public Pacient(String nume, int gravitate) {
+        this.nume = nume;
+        this.gravitate = gravitate;
+    }
+
+
+}

@@ -1,0 +1,43 @@
+package cts.builder;
+
+public class InternareBuilderAlternativ implements InternareBuilderAbstractAlternativ {
+    private boolean patRabatabil;
+    private boolean micDejun;
+    private boolean papuci;
+    private boolean halat;
+
+    public InternareBuilderAlternativ setPatRabatabil(boolean patRabatabil) {
+        this.patRabatabil = patRabatabil;
+        return this;
+    }
+
+    public InternareBuilderAlternativ setMicDejun(boolean micDejun) {
+        this.micDejun = micDejun;
+        return this;
+    }
+
+    public InternareBuilderAlternativ setPapuci(boolean papuci) {
+        this.papuci = papuci;
+        return this;
+    }
+
+    public InternareBuilderAlternativ setHalat(boolean halat) {
+        this.halat = halat;
+        return this;
+    }
+
+    public InternareBuilderAlternativ(){
+        this.halat=false;
+        this.papuci=false;
+        this.patRabatabil=false;
+        this.micDejun=false;
+    }
+
+    @Override
+    public Internare build(String nume) {
+        Internare internare=new Internare(this.patRabatabil,this.micDejun,this.papuci,this.halat,nume);
+        return internare;
+    }
+
+
+}
