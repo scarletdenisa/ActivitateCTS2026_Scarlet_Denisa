@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../2/ActivitatePart2.iml" filepath="$PROJECT_DIR$/../2/ActivitatePart2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../2/Composite09/Composite09.iml" filepath="$PROJECT_DIR$/../2/Composite09/Composite09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../2/Decorator09/Decorator09.iml" filepath="$PROJECT_DIR$/../2/Decorator09/Decorator09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../2/ExComposite/ExComposite.iml" filepath="$PROJECT_DIR$/../2/ExComposite/ExComposite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../2/ExFlyweight1/ExFlyweight1.iml" filepath="$PROJECT_DIR$/../2/ExFlyweight1/ExFlyweight1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../2/ExProxy1/ExProxy1.iml" filepath="$PROJECT_DIR$/../2/ExProxy1/ExProxy1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../2/ExProxy2/ExProxy2.iml" filepath="$PROJECT_DIR$/../2/ExProxy2/ExProxy2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../2/Proxy08/Proxy08.iml" filepath="$PROJECT_DIR$/../2/Proxy08/Proxy08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../2/Restaurant10/Restaurant10.iml" filepath="$PROJECT_DIR$/../2/Restaurant10/Restaurant10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../2/Restaurant5/Restaurant5.iml" filepath="$PROJECT_DIR$/../2/Restaurant5/Restaurant5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../2/Restaurant6/Restaurant6.iml" filepath="$PROJECT_DIR$/../2/Restaurant6/Restaurant6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../2/Spital6/Spital6.iml" filepath="$PROJECT_DIR$/../2/Spital6/Spital6.iml" />
+    </modules>
+  </component>
+</project>
