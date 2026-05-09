@@ -1,8 +1,8 @@
 package cts.clase;
 
 public class Asistent extends PersonalMedical{
-    public Asistent(int varsta, String spital, int experienta) {
-        super(varsta, spital, experienta);
+    public Asistent(int varsta, String spital, int experienta,String arie) {
+        super(varsta, spital, experienta,arie);
     }
 
     @Override

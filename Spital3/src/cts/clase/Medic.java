@@ -1,8 +1,8 @@
 package cts.clase;
 
 public class Medic extends PersonalMedical{
-    public Medic(int varsta, String spital, int experienta) {
-        super(varsta, spital, experienta);
+    public Medic(int varsta, String spital, int experienta,String arie) {
+        super(varsta, spital, experienta,arie);
     }
 
     @Override

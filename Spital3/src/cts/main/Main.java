@@ -2,21 +2,18 @@ package cts.main;
 
 import cts.clase.PersonalMedical;
 import cts.clase.PersonalNonMedical;
-import cts.fabrici.FabricaPersonalMedical;
-import cts.fabrici.FabricaPersonalNonMedical;
-import cts.fabrici.TipPersonalMedical;
-import cts.fabrici.TipPersonalNonMedical;
+import cts.clase.PersonalSpital;
+import cts.fabrici.*;
 
 public class Main {
     public static void main(String[] args) {
 
-        FabricaPersonalMedical fabrica1=new FabricaPersonalMedical();
-        PersonalMedical asistent= fabrica1.getPersonal(TipPersonalMedical.ASISTENT,23,"Sf Constantin",3);
-
-        FabricaPersonalNonMedical fabrica2=new FabricaPersonalNonMedical();
-        PersonalNonMedical secretar= fabrica2.getPersonalNonMedical(TipPersonalNonMedical.SECRETAR,22,"Spital",10);
-
+        FabricaPersonalSpital fabrica=new FabricaPersonalMedical();
+        PersonalSpital asistent= fabrica.getPersonal(TipPersonalMedical.ASISTENT,33,"Constantin",5,"implant");
         asistent.afiseazaDescriere();
+
+        FabricaPersonalSpital fabrica2=new FabricaPersonalNonMedical();
+        PersonalSpital secretar= fabrica.getPersonal(TipPersonalNonMedical.SECRETAR,12,"spital",4);
         secretar.afiseazaDescriere();
     }
 }

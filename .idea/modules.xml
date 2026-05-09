@@ -3,9 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../2/ActivitatePart2.iml" filepath="$PROJECT_DIR$/../2/ActivitatePart2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalitateTestareSoftware.iml" filepath="$PROJECT_DIR$/CalitateTestareSoftware.iml" />
       <module fileurl="file://$PROJECT_DIR$/../2/Composite09/Composite09.iml" filepath="$PROJECT_DIR$/../2/Composite09/Composite09.iml" />
       <module fileurl="file://$PROJECT_DIR$/../2/Decorator09/Decorator09.iml" filepath="$PROJECT_DIR$/../2/Decorator09/Decorator09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExAdapter2/ExAdapter2.iml" filepath="$PROJECT_DIR$/ExAdapter2/ExAdapter2.iml" />
       <module fileurl="file://$PROJECT_DIR$/../2/ExComposite/ExComposite.iml" filepath="$PROJECT_DIR$/../2/ExComposite/ExComposite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExFacade1/ExFacade1.iml" filepath="$PROJECT_DIR$/ExFacade1/ExFacade1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExFacade2/ExFacade2.iml" filepath="$PROJECT_DIR$/ExFacade2/ExFacade2.iml" />
       <module fileurl="file://$PROJECT_DIR$/../2/ExFlyweight1/ExFlyweight1.iml" filepath="$PROJECT_DIR$/../2/ExFlyweight1/ExFlyweight1.iml" />
       <module fileurl="file://$PROJECT_DIR$/../2/ExProxy1/ExProxy1.iml" filepath="$PROJECT_DIR$/../2/ExProxy1/ExProxy1.iml" />
       <module fileurl="file://$PROJECT_DIR$/../2/ExProxy2/ExProxy2.iml" filepath="$PROJECT_DIR$/../2/ExProxy2/ExProxy2.iml" />
@@ -14,6 +18,8 @@
       <module fileurl="file://$PROJECT_DIR$/../2/Restaurant5/Restaurant5.iml" filepath="$PROJECT_DIR$/../2/Restaurant5/Restaurant5.iml" />
       <module fileurl="file://$PROJECT_DIR$/../2/Restaurant6/Restaurant6.iml" filepath="$PROJECT_DIR$/../2/Restaurant6/Restaurant6.iml" />
       <module fileurl="file://$PROJECT_DIR$/../2/Spital6/Spital6.iml" filepath="$PROJECT_DIR$/../2/Spital6/Spital6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stb4/Stb4.iml" filepath="$PROJECT_DIR$/Stb4/Stb4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stb5/Stb5.iml" filepath="$PROJECT_DIR$/Stb5/Stb5.iml" />
     </modules>
   </component>
 </project>

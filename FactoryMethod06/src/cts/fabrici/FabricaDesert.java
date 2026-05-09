@@ -6,8 +6,10 @@ import cts.clase.FelDeMancare;
 import cts.clase.Papanasi;
 
 public class FabricaDesert implements FabricaFelDeMancare{
-    public Desert getDesert(TipDesert tip,int gramaj, boolean esteFierbinte, String origine,int calorii){
-        switch(tip){
+    @Override
+    public FelDeMancare getFelMancare(TipFelDeMancare tip, int gramaj, boolean esteFierbinte, String origine,int calorii) {
+        TipDesert tipDesert=(TipDesert)tip;
+        switch(tipDesert){
             case CLATITE -> {
                 return new Clatite(gramaj, esteFierbinte, origine, calorii);
             }
@@ -20,11 +22,8 @@ public class FabricaDesert implements FabricaFelDeMancare{
 
     @Override
     public FelDeMancare getFelMancare(TipFelDeMancare tip, int gramaj, boolean esteFierbinte, String origine) {
-        return null;
+        return this.getFelMancare(tip,gramaj,esteFierbinte,origine,500);
     }
 
-    @Override
-    public FelDeMancare getFelMancare(TipFelDeMancare tip, int gramaj, boolean esteFierbinte, String origine,int calorii) {
-        return getDesert((TipDesert) tip,gramaj,esteFierbinte,origine,calorii);
-    }
+
 }

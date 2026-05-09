@@ -6,25 +6,23 @@ import cts.clase.Supa;
 import cts.clase.SupaLegume;
 
 public class FabricaSupa implements FabricaFelDeMancare{
-    public Supa getSupa(TipSupa tip,int gramaj, boolean esteFierbinte, String origine){
-        switch (tip){
+
+    @Override
+    public FelDeMancare getFelMancare(TipFelDeMancare tip, int gramaj, boolean esteFierbinte, String origine) {
+        TipSupa tipSupa=(TipSupa)tip;
+        switch (tipSupa){
+            case SUPA_LEGUME  -> {
+                return new SupaLegume(gramaj, esteFierbinte, origine);
+            }
             case CIORBA -> {
                 return new Ciorba(gramaj, esteFierbinte, origine);
-            }
-            case SUPA_LEGUME -> {
-                return new SupaLegume(gramaj, esteFierbinte, origine);
             }
         }
         return null;
     }
 
     @Override
-    public FelDeMancare getFelMancare(TipFelDeMancare tip, int gramaj, boolean esteFierbinte, String origine) {
-        return getSupa((TipSupa) tip,gramaj,esteFierbinte,origine);
-    }
-
-    @Override
-    public FelDeMancare getFelMancare(TipFelDeMancare tip, int gramaj, boolean esteFierbinte, String origine,int calorii) {
-        return null;
+    public FelDeMancare getFelMancare(TipFelDeMancare tip, int gramaj, boolean esteFierbinte, String origine, int calorii) {
+        return getFelMancare(tip, gramaj, esteFierbinte, origine);
     }
 }

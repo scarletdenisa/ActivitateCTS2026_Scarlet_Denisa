@@ -1,8 +1,8 @@
 package cts.clase;
 
 public class Brancardier extends PersonalMedical{
-    public Brancardier(int varsta, String spital, int experienta) {
-        super(varsta, spital, experienta);
+    public Brancardier(int varsta, String spital, int experienta,String arie) {
+        super(varsta, spital, experienta,arie);
     }
 
     @Override
