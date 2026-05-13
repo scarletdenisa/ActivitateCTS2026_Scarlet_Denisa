@@ -7,6 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/../2/Composite09/Composite09.iml" filepath="$PROJECT_DIR$/../2/Composite09/Composite09.iml" />
       <module fileurl="file://$PROJECT_DIR$/../2/Decorator09/Decorator09.iml" filepath="$PROJECT_DIR$/../2/Decorator09/Decorator09.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExAdapter2/ExAdapter2.iml" filepath="$PROJECT_DIR$/ExAdapter2/ExAdapter2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExChainOfResponsability1/ExChainOfResponsability1.iml" filepath="$PROJECT_DIR$/ExChainOfResponsability1/ExChainOfResponsability1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExCommand1/ExCommand1.iml" filepath="$PROJECT_DIR$/ExCommand1/ExCommand1.iml" />
       <module fileurl="file://$PROJECT_DIR$/../2/ExComposite/ExComposite.iml" filepath="$PROJECT_DIR$/../2/ExComposite/ExComposite.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExComposite1/ExComposite1.iml" filepath="$PROJECT_DIR$/ExComposite1/ExComposite1.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExComposite2/ExComposite2.iml" filepath="$PROJECT_DIR$/ExComposite2/ExComposite2.iml" />
@@ -15,17 +17,51 @@
       <module fileurl="file://$PROJECT_DIR$/ExFacade1/ExFacade1.iml" filepath="$PROJECT_DIR$/ExFacade1/ExFacade1.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExFacade2/ExFacade2.iml" filepath="$PROJECT_DIR$/ExFacade2/ExFacade2.iml" />
       <module fileurl="file://$PROJECT_DIR$/../2/ExFlyweight1/ExFlyweight1.iml" filepath="$PROJECT_DIR$/../2/ExFlyweight1/ExFlyweight1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExFlyweight2/ExFlyweight2.iml" filepath="$PROJECT_DIR$/ExFlyweight2/ExFlyweight2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExFlyweight3/ExFlyweight3.iml" filepath="$PROJECT_DIR$/ExFlyweight3/ExFlyweight3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExObserver1/ExObserver1.iml" filepath="$PROJECT_DIR$/ExObserver1/ExObserver1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExObserver2/ExObserver2.iml" filepath="$PROJECT_DIR$/ExObserver2/ExObserver2.iml" />
       <module fileurl="file://$PROJECT_DIR$/../2/ExProxy1/ExProxy1.iml" filepath="$PROJECT_DIR$/../2/ExProxy1/ExProxy1.iml" />
       <module fileurl="file://$PROJECT_DIR$/../2/ExProxy2/ExProxy2.iml" filepath="$PROJECT_DIR$/../2/ExProxy2/ExProxy2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExProxy3/ExProxy3.iml" filepath="$PROJECT_DIR$/ExProxy3/ExProxy3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExProxy4/ExProxy4.iml" filepath="$PROJECT_DIR$/ExProxy4/ExProxy4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExStrategy1/ExStrategy1.iml" filepath="$PROJECT_DIR$/ExStrategy1/ExStrategy1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExStrategy2/ExStrategy2.iml" filepath="$PROJECT_DIR$/ExStrategy2/ExStrategy2.iml" />
       <module fileurl="file://$PROJECT_DIR$/../2/Proxy08/Proxy08.iml" filepath="$PROJECT_DIR$/../2/Proxy08/Proxy08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Restaurant010/Restaurant010.iml" filepath="$PROJECT_DIR$/Restaurant010/Restaurant010.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Restaurant05/Restaurant05.iml" filepath="$PROJECT_DIR$/Restaurant05/Restaurant05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Restaurant06/Restaurant06.iml" filepath="$PROJECT_DIR$/Restaurant06/Restaurant06.iml" />
       <module fileurl="file://$PROJECT_DIR$/../2/Restaurant10/Restaurant10.iml" filepath="$PROJECT_DIR$/../2/Restaurant10/Restaurant10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Restaurant11/Restaurant11.iml" filepath="$PROJECT_DIR$/Restaurant11/Restaurant11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Restaurant12/Restaurant12.iml" filepath="$PROJECT_DIR$/Restaurant12/Restaurant12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Restaurant15/Restaurant15.iml" filepath="$PROJECT_DIR$/Restaurant15/Restaurant15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Restaurant16/Restaurant16.iml" filepath="$PROJECT_DIR$/Restaurant16/Restaurant16.iml" />
       <module fileurl="file://$PROJECT_DIR$/../2/Restaurant5/Restaurant5.iml" filepath="$PROJECT_DIR$/../2/Restaurant5/Restaurant5.iml" />
       <module fileurl="file://$PROJECT_DIR$/../2/Restaurant6/Restaurant6.iml" filepath="$PROJECT_DIR$/../2/Restaurant6/Restaurant6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Restaurant7/Restaurant7.iml" filepath="$PROJECT_DIR$/Restaurant7/Restaurant7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Restaurant9/Restaurant9.iml" filepath="$PROJECT_DIR$/Restaurant9/Restaurant9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spital015/Spital015.iml" filepath="$PROJECT_DIR$/Spital015/Spital015.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spital06/Spital06.iml" filepath="$PROJECT_DIR$/Spital06/Spital06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spital08/Spital08.iml" filepath="$PROJECT_DIR$/Spital08/Spital08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spital10/Spital10.iml" filepath="$PROJECT_DIR$/Spital10/Spital10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spital11/Spital11.iml" filepath="$PROJECT_DIR$/Spital11/Spital11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spital12/Spital12.iml" filepath="$PROJECT_DIR$/Spital12/Spital12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spital15/Spital15.iml" filepath="$PROJECT_DIR$/Spital15/Spital15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spital5/Spital5.iml" filepath="$PROJECT_DIR$/Spital5/Spital5.iml" />
       <module fileurl="file://$PROJECT_DIR$/../2/Spital6/Spital6.iml" filepath="$PROJECT_DIR$/../2/Spital6/Spital6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spital7/Spital7.iml" filepath="$PROJECT_DIR$/Spital7/Spital7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spital8/Spital8.iml" filepath="$PROJECT_DIR$/Spital8/Spital8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spital9/Spital9.iml" filepath="$PROJECT_DIR$/Spital9/Spital9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stb10/Stb10.iml" filepath="$PROJECT_DIR$/Stb10/Stb10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stb11/Stb11.iml" filepath="$PROJECT_DIR$/Stb11/Stb11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stb12/Stb12.iml" filepath="$PROJECT_DIR$/Stb12/Stb12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stb16/Stb16.iml" filepath="$PROJECT_DIR$/Stb16/Stb16.iml" />
       <module fileurl="file://$PROJECT_DIR$/Stb4/Stb4.iml" filepath="$PROJECT_DIR$/Stb4/Stb4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Stb5/Stb5.iml" filepath="$PROJECT_DIR$/Stb5/Stb5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Stb6/Stb6.iml" filepath="$PROJECT_DIR$/Stb6/Stb6.iml" />
       <module fileurl="file://$PROJECT_DIR$/Stb7/Stb7.iml" filepath="$PROJECT_DIR$/Stb7/Stb7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stb8/Stb8.iml" filepath="$PROJECT_DIR$/Stb8/Stb8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stb9/Stb9.iml" filepath="$PROJECT_DIR$/Stb9/Stb9.iml" />
     </modules>
   </component>
 </project>
